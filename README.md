@@ -12,6 +12,7 @@
 5.权限
 ![image](https://github.com/Mikyyz/vue_admin/blob/master/src/assets/images/WX20210413-174502%402x.png)
 ## 技术选型
+
 <table>
   <tr>
     <th text-align="center" width="200px">技术</th>
@@ -57,5 +58,24 @@
       <td><a href="https://cli.vuejs.org/zh/">https://cli.vuejs.org/zh</a></td>
   </tr>
 </table>
+
 ## 项目布局
+```
+src -- 源码目录
+├── api -- axios网络请求定义
+├── assets -- 静态图片资源文件
+├── components -- 通用组件封装
+├── icons -- svg矢量图片文件
+├── router -- vue-router路由配置
+├── store -- vuex的状态管理
+├── utils -- 工具类
+└── views -- 前端页面
+    ├── home -- 首页
+    ├── layout -- 通用页面加载框架
+    ├── user -- 登录页
+    ├── oms -- 订单模块页面
+    ├── pms -- 商品模块页面
+    └── sms -- 营销模块页面
+    └── ums -- 权限模块页面
+```
 
