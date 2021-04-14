@@ -1,6 +1,6 @@
-# 项目介绍
+## 项目介绍
 该项目是一个电商后台管理系统,基于Vue+Ant design vue框架实现商品、订单、营销、权限四个模块的功能
-# 项目演示截图
+## 项目演示截图
 1.首页
 ![image](https://github.com/Mikyyz/vue_admin/blob/master/src/assets/images/WX20210413-174350%402x.png)
 2.商品
@@ -11,7 +11,7 @@
 ![image](https://github.com/Mikyyz/vue_admin/blob/master/src/assets/images/WX20210413-174445%402x.png)
 5.权限
 ![image](https://github.com/Mikyyz/vue_admin/blob/master/src/assets/images/WX20210413-174502%402x.png)
-# 技术选型
+## 技术选型
 <table>
   <tr>
     <th text-align="center" width="200px">技术</th>
